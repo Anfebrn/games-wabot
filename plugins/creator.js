@@ -1,7 +1,7 @@
 let handler = function (m) {
-  // this.fakeReply(m.chat, 'This is my owner', '6281390658325@s.whatsapp.net', 'Owner')
-  this.sendContact(m.chat, '6281515860089', 'Nurutomo', m)
-  this.sendContact(m.chat, '6281390658325', 'Owner Metro Bot :)', m)
+  // this.fakeReply(m.chat, 'This is my owner', '6285924341386@s.whatsapp.net', 'Owner')
+  this.sendContact(m.chat, '6285349896689', 'anfebnBotz', m)
+  this.sendContact(m.chat, '6285924341386', 'Owner  AnfebnBotz:)', m)
 }
 handler.help = ['owner', 'creator']
 handler.tags = ['info']
