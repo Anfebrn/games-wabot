@@ -1,8 +1,8 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
-global.owner = ['6281390658325', '6282256115584', '6285713964963']// Put your number here
+global.linkGC = ['https://chat.whatsapp.com/LvK86OH4nWyHUAWJS9tNtw', 'https://chat.whatsapp.com/K2GdecBQiHaKjMiQ9bhrNS']
+global.owner = ['6287772343860', '6285924341386', '62885349896689']// Put your number here
 global.mods = ['13479805233'] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['625156691677'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -24,8 +24,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot Is The Best'
+global.packname = 'wa.me/628772343860'
+global.author = 'AnfebnBotz Is The Best'
 
 global.multiplier = 39 // The higher, The harder levelup
 
