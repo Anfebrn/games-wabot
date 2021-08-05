@@ -17,7 +17,9 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/BochilGaming/games-wabot.git
+> git clone https://github.com/Anfebrn/games-wabot.git
+
+
 > cd games-wabot
 > npm install
 ```
