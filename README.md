@@ -9,7 +9,7 @@
 <a href="https://github.com/BochilGaming/games-wabot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BochilGaming/games-wabot?label=PullRequest&color=red&style=flat-square"></a>
 
 ## Join Group Bot
-[`Group Whatsapp`](https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM)
+[`Group Whatsapp`](https://chat.whatsapp.com/K2GdecBQiHaKjMiQ9bhrNS)
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
@@ -17,7 +17,7 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/BochilGaming/games-wabot
+> git clone https://github.com/BochilGaming/games-wabot.git
 > cd games-wabot
 > npm install
 ```
@@ -34,7 +34,7 @@
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/BochilGaming/games-wabot
+> git clone https://github.com/Anfebrn/games-wabot.git
 > cd games-wabot
 > npm install
 ```
